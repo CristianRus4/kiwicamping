@@ -1,0 +1,46 @@
+{
+  "version": "2025.1",
+  "lastUpdated": "2025-06-04",
+  "datasets": {
+    "campsites": {
+      "version": "1.0",
+      "lastUpdated": "2025-06-04",
+      "url": "https://raw.githubusercontent.com/CristianRus4/kiwicamping/main/campsites.json"
+    },
+    "huts": {
+      "version": "1.0",
+      "lastUpdated": "2025-06-04",
+      "url": "https://raw.githubusercontent.com/CristianRus4/kiwicamping/main/huts.json"
+    },
+    "freedom": {
+      "version": "1.0",
+      "lastUpdated": "2025-06-04",
+      "url": "https://raw.githubusercontent.com/CristianRus4/kiwicamping/main/freedom.json"
+    },
+    "dump": {
+      "version": "1.0",
+      "lastUpdated": "2025-06-04",
+      "url": "https://raw.githubusercontent.com/CristianRus4/kiwicamping/main/dumps.json"
+    },
+    "holidayparks": {
+      "version": "1.0",
+      "lastUpdated": "2025-06-04",
+      "url": "https://raw.githubusercontent.com/CristianRus4/kiwicamping/main/holy.json"
+    },
+    "dayuse_north": {
+      "version": "1.0",
+      "lastUpdated": "2025-06-04",
+      "url": "https://raw.githubusercontent.com/CristianRus4/kiwicamping/main/dayusenorth.json"
+    },
+    "dayuse_south": {
+      "version": "1.0",
+      "lastUpdated": "2025-06-04",
+      "url": "https://raw.githubusercontent.com/CristianRus4/kiwicamping/main/dayusesouth.json"
+    },
+    "freedom_geojson": {
+      "version": "1.0",
+      "lastUpdated": "2025-06-04",
+      "url": "https://raw.githubusercontent.com/CristianRus4/kiwicamping/main/freedomgeo.geojson"
+    }
+  }
+}
