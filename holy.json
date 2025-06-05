@@ -1,21 +1,5 @@
 [
   {
-    "id": 600,
-    "name": "(CLOSED) Goose Bay (Kaikoura Coastal Campgrounds)",
-    "address": "Kaikoura South Rd, Goose Bay, South Island.",
-    "latitude": -42.478505,
-    "longitude": 173.529353,
-    "bookable": true,
-    "price": "paid",
-    "contact_phone": "(03) 319 5348",
-    "contact_email": "goosebaycamp@farmside.co.nz",
-    "contact_website": "kaikouracoastalcampgrounds.co.nz/goose-bay-camp/",
-    "social_link": "",
-    "booking_link": "",
-    "dogs": "",
-    "facilities": ""
-  },
-  {
     "id": 601,
     "name": "Amble On Inn Holiday Park",
     "address": "145 Chesney Street, Invercargill, South Island.",
