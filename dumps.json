@@ -1768,19 +1768,6 @@
     "longitude": 175.400999
   },
   {
-    "id": 336,
-    "name": "***broken **Water Dump",
-    "address": "South Island.",
-    "contact_phone": "",
-    "contact_email": "",
-    "contact_website": "",
-    "price": "paid",
-    "facilities": "carwash,gas",
-    "link_scrapper": "https://wikicamps.co.nz/site/South%2BIsland/Public+Dump+Point/%2A%2A%2Abroken+%2A%2AWater+Dump/2489",
-    "latitude": -43.388656,
-    "longitude": 170.182571
-  },
-  {
     "id": 337,
     "name": "Tauranga Airport Dump Station",
     "address": "Matapihi Road, Tauranga, North Island.",
@@ -2039,19 +2026,6 @@
     "link_scrapper": "https://wikicamps.co.nz/site/North%2BIsland/Public+Dump+Point/Public+Dump+Station+%28Weymouth+Sport+Club%29/8046",
     "latitude": -37.041126,
     "longitude": 174.881634
-  },
-  {
-    "id": 357,
-    "name": "(CLOSED!) Allied Petroleum",
-    "address": "South Island.",
-    "contact_phone": "",
-    "contact_email": "",
-    "contact_website": "",
-    "price": "free",
-    "facilities": "",
-    "link_scrapper": "https://wikicamps.co.nz/site/South%2BIsland/Public+Dump+Point/%28CLOSED%21%29+Allied+Petroleum/2402",
-    "latitude": -42.391912,
-    "longitude": 173.679547
   },
   {
     "id": 358,
